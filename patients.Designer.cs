@@ -530,7 +530,7 @@ namespace health_care
             this.DOBTb.Format = System.Windows.Forms.DateTimePickerFormat.Short;
             this.DOBTb.Location = new System.Drawing.Point(255, 86);
             this.DOBTb.MaxDate = new System.DateTime(9998, 12, 31, 0, 0, 0, 0);
-            this.DOBTb.MinDate = new System.DateTime(2022, 11, 21, 0, 0, 0, 0);
+            this.DOBTb.MinDate = new System.DateTime(1900, 1, 1, 0, 0, 0, 0);
             this.DOBTb.Name = "DOBTb";
             this.DOBTb.Size = new System.Drawing.Size(200, 29);
             this.DOBTb.TabIndex = 19;

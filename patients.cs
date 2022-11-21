@@ -165,7 +165,7 @@ namespace health_care
                 Query = string.Format(Query, Patient, Gender, BDate, Phone, Address);
                 Con.SetData(Query);
                 ShowPatients();
-                MessageBox.Show("Patient Adress");
+                MessageBox.Show("Patient Adress!!!");
             }
         }
 
