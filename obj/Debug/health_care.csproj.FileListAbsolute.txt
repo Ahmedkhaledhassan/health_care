@@ -1,0 +1,12 @@
+C:\Users\IT\Desktop\تاسكات\desktop\Ahmed khaled\health_care\bin\Debug\health_care.exe.config
+C:\Users\IT\Desktop\تاسكات\desktop\Ahmed khaled\health_care\bin\Debug\health_care.exe
+C:\Users\IT\Desktop\تاسكات\desktop\Ahmed khaled\health_care\bin\Debug\health_care.pdb
+C:\Users\IT\Desktop\تاسكات\desktop\Ahmed khaled\health_care\bin\Debug\Guna.UI2.dll
+C:\Users\IT\Desktop\تاسكات\desktop\Ahmed khaled\health_care\obj\Debug\health_care.csproj.AssemblyReference.cache
+C:\Users\IT\Desktop\تاسكات\desktop\Ahmed khaled\health_care\obj\Debug\health_care.login.resources
+C:\Users\IT\Desktop\تاسكات\desktop\Ahmed khaled\health_care\obj\Debug\health_care.Properties.Resources.resources
+C:\Users\IT\Desktop\تاسكات\desktop\Ahmed khaled\health_care\obj\Debug\health_care.csproj.GenerateResource.cache
+C:\Users\IT\Desktop\تاسكات\desktop\Ahmed khaled\health_care\obj\Debug\health_care.csproj.CoreCompileInputs.cache
+C:\Users\IT\Desktop\تاسكات\desktop\Ahmed khaled\health_care\obj\Debug\health_care.csproj.CopyComplete
+C:\Users\IT\Desktop\تاسكات\desktop\Ahmed khaled\health_care\obj\Debug\health_care.exe
+C:\Users\IT\Desktop\تاسكات\desktop\Ahmed khaled\health_care\obj\Debug\health_care.pdb
