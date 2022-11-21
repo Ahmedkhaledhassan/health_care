@@ -10,3 +10,4 @@ C:\Users\IT\Desktop\تاسكات\desktop\Ahmed khaled\health_care\obj\Debug\heal
 C:\Users\IT\Desktop\تاسكات\desktop\Ahmed khaled\health_care\obj\Debug\health_care.csproj.CopyComplete
 C:\Users\IT\Desktop\تاسكات\desktop\Ahmed khaled\health_care\obj\Debug\health_care.exe
 C:\Users\IT\Desktop\تاسكات\desktop\Ahmed khaled\health_care\obj\Debug\health_care.pdb
+C:\Users\IT\Desktop\تاسكات\desktop\Ahmed khaled\health_care\obj\Debug\health_care.patients.resources
