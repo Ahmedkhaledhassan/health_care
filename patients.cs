@@ -12,11 +12,18 @@ namespace health_care
 {
     public partial class patients : Form
     {
+        Function Con;
         public patients()
         {
             InitializeComponent();
+            Con = new Function();
+            ShowPatients();
         }
-
+        private void ShowPatients()
+        {
+            string Query = "Select * from PatientTb1";
+            PatientsList.DataSource = Con.GetData(Query);
+        }
         private void pictureBox3_Click(object sender, EventArgs e)
         {
 
@@ -144,7 +151,22 @@ namespace health_care
 
         private void button2_Click(object sender, EventArgs e)
         {
-
+            if(PatNameTb.Text == "" || PatAddTb.Text =="" || GenCb.SelectedIndex == -1)
+            {
+                MessageBox.Show("Missing Data !!!");
+            }else
+            {
+                string Patient = PatNameTb.Text;
+                string Gender = GenCb.SelectedItem.ToString();
+                string BDate = DOBTb.Value.Date.ToString();
+                string Phone = PatPhoneTb.Text;
+                string Address = PatAddTb.Text;
+                string Query = "insert into PatientTb1 valuues('{0}','{1}','{2}','{3}','{4}')";
+                Query = string.Format(Query, Patient, Gender, BDate, Phone, Address);
+                Con.SetData(Query);
+                ShowPatients();
+                MessageBox.Show("Patient Adress");
+            }
         }
 
         private void button3_Click(object sender, EventArgs e)
